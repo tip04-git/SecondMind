@@ -1,0 +1,4 @@
+matplotlib
+requests
+python-dotenv
+psutil
