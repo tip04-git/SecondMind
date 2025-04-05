@@ -1,0 +1,182 @@
+{
+    "Machine Unlearning": {
+        "summary": "   Machine Learning has attracted a lot of attention and has evolved into a key technology for successful applications such as intelligent computer   This efficiency is key for responsive, real-time applications, highlighting the practical advantage of unlearning over retraining methods [16]. c) Resource      At its core, unlearning on a target model seeks to produce an unlearned model that is equivalent to\u2014or at least \u201cbehaves like\u201d\u2014a retrained model  .",
+        "ranked_papers": [
+            {
+                "title": "Research article An overview of machine unlearning",
+                "year": "2024",
+                "url": "https://www.sciencedirect.com/science/article/pii/S2667295224000576",
+                "score": 10,
+                "citations": 380,
+                "references": 35
+            },
+            {
+                "title": "Rethinking Machine Unlearning for Large Language Models",
+                "year": "Unknown",
+                "url": "https://arxiv.org/html/2402.08787",
+                "score": 10,
+                "citations": 181,
+                "references": 57
+            },
+            {
+                "title": "Machine Unlearning: A Comprehensive Survey",
+                "year": "2024",
+                "url": "https://arxiv.org/html/2405.07406v2",
+                "score": 10,
+                "citations": 56,
+                "references": 93
+            }
+        ],
+        "hypothesis": "Machine Unlearning"
+    },
+    "AGI": {
+        "summary": "For example, previous AI models have limited memories and only rely on real-time data to make decisions. Even emerging generative AI applications with better   2025 APPLICATION & REGISTRATION \u00b7 2025 Hemp Grower/Handler License Application- (Grower License Application will be active November 1, 2024) \u00b7 2025 Hemp Processor      A key trend is   AGI examples. However, once theoretical AGI achieves the above to become actual AGI, its potential applications are vast.",
+        "ranked_papers": [
+            {
+                "title": "How close is AI to human-level intelligence?",
+                "year": "2024",
+                "url": "https://www.nature.com/articles/d41586-024-03905-1",
+                "score": 8,
+                "citations": 499,
+                "references": 74
+            },
+            {
+                "title": "Sparks of Artificial General Intelligence: Early experiments with GPT-4",
+                "year": "2023",
+                "url": "https://arxiv.org/abs/2303.12712",
+                "score": 7,
+                "citations": 490,
+                "references": 88
+            },
+            {
+                "title": "arXiv.org e-Print archive",
+                "year": "Unknown",
+                "url": "https://arxiv.org/",
+                "score": 10,
+                "citations": 127,
+                "references": 51
+            }
+        ],
+        "hypothesis": "AGI"
+    },
+    "Quantum Learning": {
+        "summary": "Learning path. Scaling quantum computing toward utility. Courses. Learn about key concepts, algorithms, and their applications. View all \u00b7 Basics of Quantum   Quantum Information Science Learning: Future Pathways. Identifying essential concepts for future curricular and educator activities that will help learners   A free online course on the IBM Quantum Learning platform and serves as a primer on the foundational concepts in quantum-safe cryptography.",
+        "ranked_papers": [
+            {
+                "title": "Supervised Quantum Learning without Measurements | Scientific ...",
+                "year": "2017",
+                "url": "https://www.nature.com/articles/s41598-017-13378-0",
+                "score": 10,
+                "citations": 274,
+                "references": 95
+            },
+            {
+                "title": "Immersive quantum: A systematic literature review of XR in quantum ...",
+                "year": "Unknown",
+                "url": "https://www.sciencedirect.com/science/article/pii/S2949678024000370",
+                "score": 10,
+                "citations": 240,
+                "references": 35
+            },
+            {
+                "title": "arXiv.org e-Print archive",
+                "year": "Unknown",
+                "url": "https://arxiv.org/",
+                "score": 6,
+                "citations": 72,
+                "references": 84
+            }
+        ],
+        "hypothesis": "Quantum Learning"
+    },
+    "Sustainability": {
+        "summary": "Sustainability (Key Concepts) [Thiele, Leslie Paul] on Amazon.com. *FREE* shipping on qualifying offers. Sustainability (Key Concepts) Sustainability: Key Concepts and Principles \u00b7 The Sustainable Development Goals (SDG) \u00b7 The Paris Agreement \u00b7 United Nations Global Compact \u00b7 The Universal      To catalyze uptake, we identify seven key social concepts that are largely absent from many efforts to pursue sustainability goals. We present  .",
+        "ranked_papers": [
+            {
+                "title": "STOTEN | Science of The Total Environment | Journal ...",
+                "year": "Unknown",
+                "url": "https://www.sciencedirect.com/journal/science-of-the-total-environment",
+                "score": 9,
+                "citations": 264,
+                "references": 87
+            },
+            {
+                "title": "Environmental Research | Journal | ScienceDirect.com by Elsevier",
+                "year": "Unknown",
+                "url": "https://www.sciencedirect.com/journal/environmental-research",
+                "score": 8,
+                "citations": 227,
+                "references": 69
+            },
+            {
+                "title": "Marine Environmental Research | Journal | ScienceDirect.com by ...",
+                "year": "Unknown",
+                "url": "https://www.sciencedirect.com/journal/marine-environmental-research",
+                "score": 8,
+                "citations": 68,
+                "references": 55
+            }
+        ],
+        "hypothesis": "Sustainability"
+    },
+    "Cloud Computing": {
+        "summary": "   AWS Transit Gateway | Overview and Best Practices. This in-depth   concepts in Google Cloud Platform (GCP), which play a key\u2026 Oct 12   By allowing data and applications to move between private and public clouds, a hybrid cloud gives your business greater flexibility and more deployment options   A three-part series that teaches you basic cloud concepts, provides a streamlined overview of many Azure services, and guides you with hands-on exercises.",
+        "ranked_papers": [
+            {
+                "title": "(PDF) A Review of Current Research Trends in Green Computing",
+                "year": "2024",
+                "url": "https://www.researchgate.net/publication/377579722_A_Review_of_Current_Research_Trends_in_Green_Computing",
+                "score": 7,
+                "citations": 394,
+                "references": 34
+            },
+            {
+                "title": "Research article Quantum cloud computing: Trends and challenges",
+                "year": "Unknown",
+                "url": "https://www.sciencedirect.com/science/article/pii/S2949948824000271",
+                "score": 10,
+                "citations": 364,
+                "references": 87
+            },
+            {
+                "title": "AI revolutionizing industries worldwide: A comprehensive overview ...",
+                "year": "Unknown",
+                "url": "https://www.sciencedirect.com/science/article/pii/S2773207X24001386",
+                "score": 9,
+                "citations": 197,
+                "references": 78
+            }
+        ],
+        "hypothesis": "Cloud Computing"
+    },
+    "Block Chain": {
+        "summary": "Ethereum is a decentralized open-source blockchain platform that people can use to build public blockchain applications. Ethereum Enterprise is designed for   Key elements of a blockchain   All network participants have access to the distributed ledger and its immutable record of transactions. With this shared ledger,   The four key concepts behind blockchain are: Shared ledger. A shared ledger is an \u201cappend-only\u201d distributed system of record shared across a business network. \u201c  .",
+        "ranked_papers": [
+            {
+                "title": "Blockchain: Research and Applications | Journal | ScienceDirect ...",
+                "year": "Unknown",
+                "url": "https://www.sciencedirect.com/journal/blockchain-research-and-applications",
+                "score": 8,
+                "citations": 377,
+                "references": 82
+            },
+            {
+                "title": "Blockchain in real estate: Recent developments and empirical ...",
+                "year": "Unknown",
+                "url": "https://www.sciencedirect.com/science/article/pii/S0264837722003611",
+                "score": 7,
+                "citations": 91,
+                "references": 62
+            },
+            {
+                "title": "Research article Blockchain technology diffusion in tourism ...",
+                "year": "2024",
+                "url": "https://www.sciencedirect.com/science/article/pii/S2405844024007060",
+                "score": 8,
+                "citations": 77,
+                "references": 28
+            }
+        ],
+        "hypothesis": "diffusion in Block Chain"
+    }
+}
