@@ -2,3 +2,7 @@ matplotlib
 requests
 python-dotenv
 psutil
+tabulate
+
+#pip install -r requirements.txt
+
