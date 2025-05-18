@@ -1,5 +1,5 @@
 
-# Agents-Based Research Assistant System
+# SECOND MIND - Agents Based Research Assistant System
 
 A modular multi-agent system designed to automate academic research tasks like hypothesis generation, literature search, ranking, reflection, and refinement using Python-based AI agents.
 
