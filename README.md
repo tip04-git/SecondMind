@@ -82,9 +82,8 @@ Matplotlib graphs generated after each query:
 
 ---
 
-```
 ## 🗂️ Project Structure
-
+```
 AgentSystem/
 ├── agents/ # All AI agents
 │ ├── generation.py # Fetches domain content
