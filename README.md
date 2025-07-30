@@ -82,34 +82,29 @@ Matplotlib graphs generated after each query:
 
 ---
 
+```
 ## 🗂️ Project Structure
 
 AgentSystem/
-│
 ├── agents/ # All AI agents
-|
-│   ├── generation.py     # Fetches domain content
-│   ├── ranking.py        # Ranks results based on relevance
-│   ├── reflection.py     # Evaluates query quality
-│   ├── evolution.py      # Refines the query based on keywords
-│   ├── proximity.py      # Memory lookup for similar past queries
-│   └── meta_review.py    # Performance evaluation agent
-|
+│ ├── generation.py # Fetches domain content
+│ ├── ranking.py # Ranks results based on relevance
+│ ├── reflection.py # Evaluates query quality
+│ ├── evolution.py # Refines the query based on keywords
+│ ├── proximity.py # Memory lookup for similar past queries
+│ └── meta_review.py # Performance evaluation agent
 │
 ├── supervisor/
-│ └── supervisor.py       # Coordinates agent execution
-|
+│ └── supervisor.py # Coordinates agent execution
 │
 ├── storage/
-│ └── memory.json         # Query cache and memory log
-|
+│ └── memory.json # Query cache and memory log
 │
-├── main.py               # Entry point for the system
-├── requirements.txt      # Python dependencies
-├── .env                  # API keys and configurations
-└── README.md             # Project overview and usage
-
-
+├── main.py # Entry point for the system
+├── requirements.txt # Python dependencies
+├── .env # API keys and configurations
+└── README.md # Project overview and usage
+```
 ---
 
 ## 📌 Future Improvements
