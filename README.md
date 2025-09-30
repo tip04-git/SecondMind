@@ -1,6 +1,6 @@
-# 🧠 Second Mind – Agents-Based Research Assistant System
+# 🧠  – Agents-Based Research Assistant System
 
-**Second Mind** is a modular, multi-agent AI system designed to automate key academic research tasks such as hypothesis generation, literature review, ranking, and refinement. Built with Python, the system simulates the collaboration of expert agents to streamline the research workflow from query to insight.
+It is a modular, multi-agent AI system designed to automate key academic research tasks such as hypothesis generation, literature review, ranking, and refinement. Built with Python, the system simulates the collaboration of expert agents to streamline the research workflow from query to insight.
 
 ---
 
